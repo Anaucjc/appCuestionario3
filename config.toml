@@ -1,0 +1,5 @@
+[server]
+maxUploadSize = 500   # MB: permite subir zips con muchos cuestionarios
+
+[theme]
+primaryColor = "#1c5cab"
